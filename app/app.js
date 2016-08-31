@@ -19,7 +19,6 @@ angular.module('myApp').controller('AppController', function($scope, $http) {
       });
 
 
-  $scope.$on('$routeChangeSuccess', function() {});
 
 
 
